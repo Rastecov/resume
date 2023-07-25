@@ -1,3 +1,3 @@
 ### Preview
 
-![Resume Screenshot](/Eraste_s_Resume.png)
+![Resume Screenshot](/Eraste_s_Resume.pdf)
